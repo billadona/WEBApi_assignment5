@@ -1,0 +1,35 @@
+{
+	"id": "19a34006-4619-3fb7-297a-0fdcbb8f4bf4",
+	"name": "assignment 5 invalid request",
+	"description": "",
+	"order": [
+		"3be2b95c-d489-8446-9b04-d554a5adff80"
+	],
+	"folders": [],
+	"timestamp": 1461625626720,
+	"owner": "303547",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "3be2b95c-d489-8446-9b04-d554a5adff80",
+			"headers": "",
+			"url": "\thttp://billadona-test.apigee.net/leaveithangin/Matrix",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "19a34006-4619-3fb7-297a-0fdcbb8f4bf4",
+			"data": null,
+			"dataMode": "params",
+			"name": "\thttp://billadona-test.apigee.net/leaveithangin",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1461625638768,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

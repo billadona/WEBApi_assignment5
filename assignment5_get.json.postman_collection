@@ -1,0 +1,34 @@
+{
+	"id": "47a7e3cb-e1c7-72db-d84b-7603e7518537",
+	"name": "assignment 5 get",
+	"description": "",
+	"order": [
+		"a6036415-ccd0-a2a9-736d-382464ee0b55"
+	],
+	"folders": [],
+	"timestamp": 1461624931478,
+	"owner": "303547",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "a6036415-ccd0-a2a9-736d-382464ee0b55",
+			"headers": "",
+			"url": "https://api.usergrid.com/billadona/sandbox/movies/Up",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": null,
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1461626251382,
+			"name": "\thttp://billadona-test.apigee.net/leaveithangin",
+			"description": "",
+			"collectionId": "47a7e3cb-e1c7-72db-d84b-7603e7518537",
+			"responses": []
+		}
+	]
+}

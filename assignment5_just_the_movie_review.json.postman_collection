@@ -1,0 +1,35 @@
+{
+	"id": "4549cfa7-2517-a730-ad7a-62770b242fdd",
+	"name": "assignment 5 just the movie review",
+	"description": "",
+	"order": [
+		"dfb1413c-f391-5d25-9706-7a778e68144d"
+	],
+	"folders": [],
+	"timestamp": 1461626199512,
+	"owner": "303547",
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "dfb1413c-f391-5d25-9706-7a778e68144d",
+			"headers": "",
+			"url": "https://api.usergrid.com/billadona/sandbox/moviereviews/Up",
+			"pathVariables": {},
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "4549cfa7-2517-a730-ad7a-62770b242fdd",
+			"data": null,
+			"dataMode": "params",
+			"name": "\thttp://billadona-test.apigee.net/leaveithangin",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1461626212239,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
